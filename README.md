@@ -30,7 +30,7 @@ Os usuários devem conseguir:
 
 ### Links
 
-- URL do site ao vivo: [url do site](https://your-live-site-url.com)
+- URL do site ao vivo: [url do site](https://caioloper.github.io/landing-page-com-secao-introdutoria/)
 
 ## Meu processo
 
